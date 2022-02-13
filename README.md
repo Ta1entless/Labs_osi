@@ -1,2 +1,2 @@
-# Labs_osi
+# Labs_os
 Labs 
